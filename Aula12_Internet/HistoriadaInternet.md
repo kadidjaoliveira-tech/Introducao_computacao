@@ -8,3 +8,5 @@ A ARPANET foi uma das primeiras redes da história da internet atual. Após a de
 play_circle_filled
 Vídeo 01 - Arquitetura Internet
 Com o passar do tempo, mais e mais computadores e redes diferentes foram sendo interligadas à ARPANET, gerando um desafio: a comunicação entre hosts diferentes. Esse problema levou a mais pesquisas sobre protocolos, resultando, em 1973, no desenvolvimento do protocolo TCP/IP, que foi publicado em maio de 1974. O TCP/IP foi um protocolo proposto para a interligação de redes distintas, o que levou à adoção do termo “internet” para descrever uma única rede TCP/IP global. Esse termo foi adotado após a publicação da RFC 685, a primeira especificação completa do TCP, que foi escrita por Vinton Cerf, Yogen Dalal e Carl Sunshine, na Universidade de Stanford.
+
+Fonte: https://materialpublic.imd.ufrn.br/curso/disciplina/4/21/4/14
