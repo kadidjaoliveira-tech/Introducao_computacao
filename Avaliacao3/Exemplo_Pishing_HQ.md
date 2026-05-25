@@ -5,7 +5,7 @@
 
 ### 1. Ameaça Escolhida
 - **Phishing**: técnica de engenharia social usada para enganar usuários e obter informações confidenciais como senhas, dados bancários ou números de cartão de crédito.  
-- **Cartilha utilizada como referência**: [CERT.br – Cartilha de Segurança para Internet](https://www.cert.br/cartilha/)  
+- **Cartilha utilizada como referência**: (informar a Cartilha)
 
 ### 2. Conceitos e Atributos Relacionados
 - **Confidencialidade**: comprometida quando dados pessoais são roubados.  
