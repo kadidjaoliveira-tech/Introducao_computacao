@@ -1,5 +1,6 @@
 # Avaliação 3 – Unidade 5  
 ## Segurança da Informação: Conceitos, Atributos, Ameaças e Mecanismos
+01/06/2026 – Avaliação 3 Conteúdo: Noções de Segurança da Informação, contemplando conceitos e atributos de segurança, principais ameaças e ataques, mecanismos de proteção, segurança cibernética e novas tecnologias aplicadas à proteção da informação.
 
 ### Objetivo
 Produzir um **artefato criativo** que explique uma ameaça de segurança da informação, seus riscos e os mecanismos de proteção aplicáveis, conectando os conteúdos das Aulas 14 e 15.
