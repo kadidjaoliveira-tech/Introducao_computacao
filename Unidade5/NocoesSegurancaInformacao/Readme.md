@@ -49,3 +49,6 @@ Cada grupo deve incluir neste repositório:
 ## Reflexão Individual
 Cada estudante deve produzir um texto curto (1 página) respondendo:  
 **“Por que o fator humano é considerado o elo mais frágil da segurança da informação?”**
+
+## Referências
+IBM. Cyber attack: o que é, tipos e como prevenir ataques cibernéticos. Disponível em: [IBM](https://www.ibm.com/br-pt/think/topics/cyber-attack). Acesso em: 25 maio 2026
